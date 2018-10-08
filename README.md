@@ -1,2 +1,2 @@
-# Komuter_Page
-Website for Komuter app
+# Rapidly_Page
+Website for Rapidly app
